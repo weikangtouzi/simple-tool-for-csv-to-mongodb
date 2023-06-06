@@ -1,0 +1,13 @@
+{
+  "name": "csv-to-json-mongodb",
+  "version": "1.0.0",
+  "description": "A Node.js project to read a CSV file, convert it to JSON, and upload it to a MongoDB server.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "mongodb": "^4.1.2"
+  }
+}
